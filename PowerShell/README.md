@@ -1,0 +1,1 @@
+GetAdminList.ps1 get the admin users list from a remote machine
